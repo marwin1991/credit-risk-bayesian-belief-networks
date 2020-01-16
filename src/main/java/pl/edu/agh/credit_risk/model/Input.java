@@ -16,8 +16,8 @@ public class Input {
     private String housing;
 
     private String job;
-    private String saving_accounts;
-    private String checking_accounts;
+    private String savingAccounts;
+    private String checkingAccounts;
 
     private int creditAmount;
     private int duration;
